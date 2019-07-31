@@ -42,7 +42,7 @@ int _printf(const char *format, ...)
 			_putchar(format[i]);
 			i++;
 		}
-	} 
+	}
 va_end(lista);
 len = (_strlen(format) + count_victory);
 return (len);
