@@ -58,5 +58,5 @@ Enjoy
 ## Plugins
  in development:
 # Authors
-Sergio Rueda, Natalia Medina, Taborda, Carol Hudgson.
+Sergio Rueda, Natalia Medina, Taborda, Caroll Hudgson.
 
